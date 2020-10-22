@@ -3,4 +3,4 @@ Rencana Bisnis Firman
   *jaket
   *t-shirt
 -minuman
- -mango tea
+ *thai tea
