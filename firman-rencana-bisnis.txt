@@ -2,6 +2,5 @@ Rencana Bisnis Firman
 -konveksi
   *jaket
   *t-shirt
--makanan
 -minuman
  *thai tea
